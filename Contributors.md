@@ -185,6 +185,7 @@
  - [AwooPH](https://github.com/AwooPH)
  - [Ruslan Balkovyy] (https://github.com/ImmortalF)
  - [Priyadarshini Nadar](https://github.com/walkrantrolls)
+ - [Josue Rushanika](https://github.com/josuerushanika)
  - [Mohrip] (https://github.com/Mohrip)
   -[Milan Rajanih](https://github.com/milanrajani)
  -[Kewoda Joanitah](https://github.com/KewodaJoanitah)
